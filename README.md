@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Priya Rani
 
-<!--
-**pr359347-sketch/pr359347-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Data Analyst & Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I build real-world AI & Data Analytics projects that solve business problems
+
+---
+
+# 🚀 About Me
+- Passionate about Data Science, AI & Analytics
+- Love solving real-world business problems using data
+- Focused on ML, SQL, Python & Power BI
+
+---
+
+# 🧠 Tech Stack
+- Python
+- SQL
+- Machine Learning
+- Pandas / NumPy
+- Scikit-learn
+- Power BI
+- Git & GitHub
+
+---
+
+# 📌 Featured Projects
+
+## 🔥 Smart Influencer ROI Analyzer
+AI-powered system to analyze influencer marketing performance and calculate ROI using engagement metrics, reach, conversion data, and cost analysis.
+
+## 🚨 Crime Prediction & Patrol Optimization
+Machine learning model to predict crime hotspots and optimize police patrol routes using geospatial analysis.
+
+## 📉 RetentionIQ Churn Prediction
+Customer churn prediction system to identify at-risk users and improve business retention strategies.
+
+---
+
+# 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+# 📫 Connect With Me
+- LinkedIn:http://www.linkedin.com/in/priya-rani-32b940291 
+- Email:pr359347@gmail.com
+
+- 
+
+---
+
+⭐ "Turning Data into Business Decisions"
